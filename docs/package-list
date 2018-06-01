@@ -1,0 +1,13 @@
+edu.ucsc.cross.hse.core.chart
+edu.ucsc.cross.hse.core.environment
+edu.ucsc.cross.hse.core.figure
+edu.ucsc.cross.hse.core.file
+edu.ucsc.cross.hse.core.integrator
+edu.ucsc.cross.hse.core.logging
+edu.ucsc.cross.hse.core.modeling
+edu.ucsc.cross.hse.core.monitors
+edu.ucsc.cross.hse.core.network
+edu.ucsc.cross.hse.core.processors
+edu.ucsc.cross.hse.core.specification
+edu.ucsc.cross.hse.core.trajectory
+edu.ucsc.cross.hse.core.variable
